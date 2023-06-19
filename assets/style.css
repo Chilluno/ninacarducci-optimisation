@@ -90,6 +90,11 @@ body {
 	font-size: 14px;
 }
 
+.insta-logo{
+	width: 100%;
+	height: auto;
+}
+
 #gallery {
 	/*	min-height: 100vh; */
 }
