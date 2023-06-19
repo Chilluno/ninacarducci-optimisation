@@ -6108,7 +6108,9 @@ textarea.form-control-lg {
   margin-right: auto !important;
 }
 
-
+.mb-0 {
+  margin-bottom: 0 !important;
+}
 
 .mb-1 {
   margin-bottom: 0.25rem !important;
@@ -6230,8 +6232,6 @@ textarea.form-control-lg {
   padding-top: 0.5rem !important;
   padding-bottom: 0.5rem !important;
 }
-
-
 
 .py-4 {
   padding-top: 1.5rem !important;
